@@ -36,7 +36,7 @@ export default function Navbars() {
      <Navbar bg="light" expand="lg"  className={isNavbarFixed ? 'fixed-navbar' : ''}>
       <Container fluid>
         <Navbar.Brand href="#">
-          <img className='logo' src={logo}/>
+          <img className='logo' src={logo} alt="Marbles Egypt"/>
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="navbarScroll" />
         <Navbar.Collapse id="navbarScroll">
