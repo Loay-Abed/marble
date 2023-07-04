@@ -2,7 +2,7 @@
   "name": "marbles",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Loay-Abed/marble-demo-github.git",
+  "homepage": "https://github.com/Loay-Abed/marble.git",
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
     "@fortawesome/fontawesome-svg-core": "^6.4.0",
