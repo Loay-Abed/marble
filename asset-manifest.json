@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Loay-Abed/marble-demo-github.git/static/css/main.6aa07152.css",
-    "main.js": "/Loay-Abed/marble-demo-github.git/static/js/main.ff71f42a.js",
+    "main.js": "/Loay-Abed/marble-demo-github.git/static/js/main.c261d2ef.js",
     "static/js/787.5ef99620.chunk.js": "/Loay-Abed/marble-demo-github.git/static/js/787.5ef99620.chunk.js",
     "static/media/5.png": "/Loay-Abed/marble-demo-github.git/static/media/5.225eea76aed579892460.png",
     "static/media/8.png": "/Loay-Abed/marble-demo-github.git/static/media/8.9d40596f7bf2fc7db04f.png",
@@ -30,11 +30,11 @@
     "static/media/logo.png": "/Loay-Abed/marble-demo-github.git/static/media/logo.1aee248aa6a5bc83d5ab.png",
     "index.html": "/Loay-Abed/marble-demo-github.git/index.html",
     "main.6aa07152.css.map": "/Loay-Abed/marble-demo-github.git/static/css/main.6aa07152.css.map",
-    "main.ff71f42a.js.map": "/Loay-Abed/marble-demo-github.git/static/js/main.ff71f42a.js.map",
+    "main.c261d2ef.js.map": "/Loay-Abed/marble-demo-github.git/static/js/main.c261d2ef.js.map",
     "787.5ef99620.chunk.js.map": "/Loay-Abed/marble-demo-github.git/static/js/787.5ef99620.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6aa07152.css",
-    "static/js/main.ff71f42a.js"
+    "static/js/main.c261d2ef.js"
   ]
 }
