@@ -19,7 +19,7 @@ function App() {
       <ContactForm />
       <Footer />
       <div className="WhatsApp">
-        <a target="_blank" href="https://wa.me/message/MOAGCI45V546B1">
+        <a target="_blank" href="https://wa.me/message/MOAGCI45V546B1" rel="noreferrer">
           <img src={whatsapp} alt="Whats App Icon" />
           <span>Call Us</span>
         </a>
