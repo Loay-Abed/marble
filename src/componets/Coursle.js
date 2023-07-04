@@ -6,7 +6,7 @@ export default function Coursle() {
   return (
     <>
         <div className='Coursle containers'>
-            <img src={background}/>
+            <img src={background} alt="Description of the image"/>
         </div>
     
     </>
