@@ -1,0 +1,69 @@
+.logo{
+    /* border: solid; */
+    width: 150px;
+}
+.fixed-navbar{
+    position: fixed !important;
+    width: 100%;
+    z-index: 1000;
+}
+.Coursle{
+    /* border: solid; */
+    height: 80vh;
+    width: 100%;
+    /* background-color: red; */
+}
+.Coursle img{
+    width: 100%;
+    height: 100%;
+}
+
+
+.Slider{
+    height: 90vh;
+    /* border: solid; */
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.swiper {
+    width: 100%;
+    height: 80%;
+    user-select: none;
+  }
+  .swiper-slide{
+    /* border: solid; */
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.swiper-wrapper .swiper-slide img{
+    width: 100%;
+    height: 100% !important;
+    /* border: solid red; */
+    overflow: hidden    ;
+
+    
+}
+@media screen and (max-width:700px) {
+    .swiper-slide{
+        /* border: solid; */
+     
+        width: 100% !important;
+    }
+    .Coursle{
+        /* border: solid; */
+        height: 200px;
+       
+    }
+}
+
+@media screen and (min-width:700px) and (max-width : 900px){
+   
+    .Coursle{
+        /* border: solid; */
+        height: 300px;
+       
+    }
+}
