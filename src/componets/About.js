@@ -18,7 +18,7 @@ export default function About() {
         </div>
       </div>
       <div className="AboutImg">
-        <img src={AboutImg} />
+        <img src={AboutImg} alt="" />
       </div>
     </div>
   );
