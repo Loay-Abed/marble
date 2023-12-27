@@ -5,7 +5,7 @@ export default function Footer() {
     <>
       <div className="footer">
        
-        Copyright © 2023 Design<a href="https://www.linkedin.com/in/loai-abed" target="_blank" rel="noreferrer"> loai abed </a>All receive Saved
+        Copyright © 2023 Developed By<a href="https://www.linkedin.com/in/loai-abed" target="_blank" rel="noreferrer"> loai abed </a>All receive Saved
       </div>
     </>
   );
